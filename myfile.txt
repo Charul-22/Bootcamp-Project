@@ -1,0 +1,14 @@
+City = Delhi
+Date and Time = 23 Jun 2021 | 03:26:12 PM
+Temperature = 40.05 °C
+Weather Description = haze
+Humidity = 27 %
+Wind Speed = 1.54 kmph
+
+City = Lucknow
+Date and Time = 23 Jun 2021 | 03:26:22 PM
+Temperature = 32.99 °C
+Weather Description = haze
+Humidity = 79 %
+Wind Speed = 3.6 kmph
+
